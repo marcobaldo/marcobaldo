@@ -10,7 +10,7 @@ I recently went back to school to finish my MS in Computer Science, doing resear
 
 I previously worked in the consulting space, helping other startups build their products from 0-1 and 1-10 to acquisition. 🏦 In [@xendit](https://github.com/xendit), I worked under the CTO/COO on technical PMI, modernizing logging/observability, increasing release cadence/confidence, and general improvements to operational efficiency. I also built a zero-downtime multi-billion TPV disbursement product.
 
-Currently, in [@reaphq](https://github.com/reaphq/), I support the Engineering Operations team, leading work on some of the core services and tools that underpin our products. 
+Currently, in [@reaphq](https://github.com/reaphq/), I support the Global Treasury team, leading work on some of the core services and tools that underpin our products. 
 
 
 <!--
